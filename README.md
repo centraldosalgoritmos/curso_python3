@@ -1,2 +1,2 @@
-# curso_python3
+# Devcated - Python Course
 Python course codes, pdfs, notebooks and more...
