@@ -35,19 +35,19 @@ Lista de Aulas.
 * <strong>Aula 03</strong>: Operadores (Aritméticos, Bitwise, Lógicos, Relacionais), Binding, Função type(), Tipos Numéricos (int, float, complex), Booleanos, Módulo Decimal, Módulo Fractions, Sistemas de Numeração (binário, octal e hexadecimal), Operador is, Short-Circuits, Casting. 
 
 <!-- Markdown link & img dfn's -->
-[wiki]: https://github.com/devcated/curso_python3/wiki
+[wiki]: https://github.com/loop-infinito/curso_python3/wiki
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marcosmapl
-[contributors-shield]: https://img.shields.io/github/contributors/devcated/curso_python3.svg?style=flat-square
-[contributors-url]: https://github.com/devcated/curso_python3/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/devcated/curso_python3.svg?style=flat-square
-[forks-url]: https://github.com/devcated/curso_python3/network/members
-[stars-shield]: https://img.shields.io/github/stars/devcated/curso_python3.svg?style=flat-square
-[stars-url]: https://github.com/devcated/curso_python3/stargazers
-[issues-shield]: https://img.shields.io/github/issues/devcated/curso_python3.svg?style=flat-square
-[issues-url]: https://github.com/devcated/curso_python3/issues
-[license-shield]: https://img.shields.io/github/license/devcated/curso_python3.svg?style=flat-square
-[license-url]: https://raw.githubusercontent.com/devcated/curso_python3/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/loop-infinito/curso_python3.svg?style=flat-square
+[contributors-url]: https://github.com/loop-infinito/curso_python3/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/loop-infinito/curso_python3.svg?style=flat-square
+[forks-url]: https://github.com/loop-infinito/curso_python3/network/members
+[stars-shield]: https://img.shields.io/github/stars/loop-infinito/curso_python3.svg?style=flat-square
+[stars-url]: https://github.com/loop-infinito/curso_python3/stargazers
+[issues-shield]: https://img.shields.io/github/issues/loop-infinito/curso_python3.svg?style=flat-square
+[issues-url]: https://github.com/loop-infinito/curso_python3/issues
+[license-shield]: https://img.shields.io/github/license/loop-infinito/curso_python3.svg?style=flat-square
+[license-url]: https://raw.githubusercontent.com/loop-infinito/curso_python3/master/LICENSE
 [think-python]: https://www.safaribooksonline.com/library/cover/9781449332006/250w/
 [think-python-url]: https://www.oreilly.com/library/view/think-python/9781449332006/
 
@@ -57,7 +57,7 @@ Marcos Lima  – marcos.lima@icomp.ufam.edu.br
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[Acesse ao projeto no GitHub](https://github.com/devcated/curso_python3/)
+[Acesse ao projeto no GitHub](https://github.com/loop-infinito/curso_python3/)
 
 ## Licença
 
