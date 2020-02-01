@@ -64,7 +64,7 @@ Marcos Lima  – marcos.lima@icomp.ufam.edu.br
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 - **[GNU General Public License v3.0 license](https://opensource.org/licenses/GPL-3.0)**	
-- Copyright 2020 © <a href="https://www.linkedin.com/in/marcosmapl" target="_blank">marcosmapl</a>.
+- © 2020 <a href="https://www.youtube.com/channel/UC-dBuD3xwKH4rm2mL-kGwfQ" target="_blank">Loop Infinito</a>.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Referências
